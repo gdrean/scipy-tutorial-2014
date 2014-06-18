@@ -27,3 +27,7 @@ Duration
 --------
 
 The tutorial will cover four hours
+
+Execution
+--------
+Testing the fork
